@@ -21,6 +21,8 @@ function renderProccess(){
 
     // do I need a delete existing graph line here????
 
+    d3.html('');
+
     d3.json("samples.json").then((data) => {
         // Create a variable that holds the samples array. 
         var samples = data.samples;
