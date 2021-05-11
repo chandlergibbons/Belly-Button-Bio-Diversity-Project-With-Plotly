@@ -15,10 +15,21 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 1. First I used the D3 library to read in samples.json.
 
+2. then I grabed all the data nessesary for my drop down for selecting id. 
 
-2. Create a horizontal bar chart with a dropdown menu to display the top 10 OTUs found in that individual.
+![](plt_0.png)
+
+3. I then created a horizontal bar chart next to a dropdown menu to display the top 10 OTUs found in that individual.
 
 * I used sample_values as the values, otu_ids as the labels, and otu_labels as the hovertext for the chart.
+
+![](plt_1.png)
+
+4. Next I built out a bubble chart that displays each sample from the selected id.
+
+* I used otu_ids for the x values, sample_values for the y values, sample_values for the marker size, otu_ids for the marker colors, and otu_labels for the text values.
+
+
 
 
 
