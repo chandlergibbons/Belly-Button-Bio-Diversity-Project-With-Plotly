@@ -29,6 +29,29 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 * I used otu_ids for the x values, sample_values for the y values, sample_values for the marker size, otu_ids for the marker colors, and otu_labels for the text values.
 
+![](plt_2.png)
+
+![](plt_3.png)
+
+5. The next step was to build out the meta data display table
+
+* I parsed out the selected id into the metadata variables I needed.
+* Then I reformated the variables for HTML use.
+
+![](plt_4.png)
+
+6. The Next step as a bonus I also included a gauge chart to plot the weekly washing frequency of the individual id.
+
+* This required that I create a range list to parce out the gauge sections into diferent colors.
+
+![](plt_5.png)
+
+7. The last step was to deploy to github pages. Heres the finnished product
+
+![](plotly_dashboard_1.png)
+
+![](plotly_dashboard_2.png)
+
 
 
 
