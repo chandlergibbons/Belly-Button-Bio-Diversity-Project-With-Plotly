@@ -2,6 +2,7 @@
 
 ![](bacteria.gif)
 
+## Project Summary
 
 Link to the Finnished Dashboard: https://chandlergibbons.github.io/Plot.ly_Homework/
 
