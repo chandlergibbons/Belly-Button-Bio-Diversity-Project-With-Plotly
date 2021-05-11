@@ -1,5 +1,8 @@
 # Belly Button Bio Diversity Project With Plotly 
 
+![](bacteria.gif)
+
+
 Link to the Finnished Dashboard: https://chandlergibbons.github.io/Plot.ly_Homework/
 
 For this project I build an interactive dashboard to explore the Belly Button Biodiversity dataset: http://robdunnlab.com/projects/belly-button-biodiversity/ 
